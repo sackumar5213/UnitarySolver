@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .section {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .fs-4 {
+    font-weight: bold;
+  }
+  
+
+  .input-group{
+    width: 100px;
+    margin: 0 auto;
+  }
